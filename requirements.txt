@@ -1,0 +1,13 @@
+flask
+Flask-SQLAlchemy
+psycopg2-binary
+
+bcrypt
+flask_expects_json
+flask-jwt-extended
+
+transformers
+tensorflow
+
+plotly
+pandas
